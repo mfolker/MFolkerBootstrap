@@ -1,0 +1,8 @@
+Name: MFolkerBootstrap
+Author: Orchardizer
+Website: http://arkleseizure.net
+Description: Theme created by Orchardizer
+Version: 1.0
+# todo: provide tags
+# Tags: Classic, Serif
+BaseTheme: Bootstrap
